@@ -13,10 +13,10 @@ export default function Contact() {
       })
       .then(
         () => {
-          console.log("SUCCESS!");
+          alert("Email sent Successfully");
         },
         (error) => {
-          console.log("FAILED...", error.text);
+          alert("Something went wrong please try again after sometime");
         }
       );
   };
