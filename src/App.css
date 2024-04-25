@@ -1304,3 +1304,16 @@ form input[type="submit"]:focus {
     font-size: 1.5rem;
   }
 }
+
+@media screen and (max-width: 500px) {
+  form * {
+    font-size: 18px;
+  }
+  .contact {
+    width: 90%;
+  }
+  .custom-cursor{
+    display: none !important;
+  }
+}
+
