@@ -6,20 +6,12 @@ export default function About() {
       <section className="about" id="about">
         <div className="container">
           <div className="profile-img">
-            <img
-              src="assets/profile.png"
-              data-aos="fade-up"
-              data-aos-delay="300ms"
-            />
+            <img src="assets/profile2.png" />
           </div>
           <div className="skills-img">
             <img src="assets/images/blackball.svg" alt="" />
           </div>
-          <div
-            className="about-details"
-            data-aos="fade-up"
-            data-aos-delay="300ms"
-          >
+          <div className="about-details">
             <div className="about-heading">
               <h1>About</h1>
               <h6>Know Me!!</h6>
@@ -34,7 +26,7 @@ export default function About() {
               <br />
               <br />
               <a
-                href="https://drive.google.com/file/d/1MyYMUAjIwwTDMuQOyALFvs1TkGnLLPcA/view?usp=sharing"
+                href="https://drive.google.com/file/d/1zDKw2LmymH-3fauQONeZq0xnE4L7_yr3/view?usp=sharing"
                 target="_blank"
                 className="cta"
               >
