@@ -38,7 +38,7 @@ export default function Achievements() {
             </div>
             <div
               className="skill"
-              data-date="Hark-Work"
+              data-date="Hard-Work"
               data-aos="fade-right"
               data-aos-delay="600ms"
             >
