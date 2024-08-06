@@ -26,7 +26,7 @@ export default function About() {
               <br />
               <br />
               <a
-                href="https://drive.google.com/file/d/1zDKw2LmymH-3fauQONeZq0xnE4L7_yr3/view?usp=sharing"
+                href="https://drive.google.com/file/d/18fGgz925QFamHL_7Wbavp6j6QmjbA9Ap/view?usp=sharing"
                 target="_blank"
                 className="cta"
               >
